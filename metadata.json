@@ -1,0 +1,5 @@
+{
+  "name": "Modern Stopwatch",
+  "description": "A clean, modern, and responsive Stopwatch application with lap tracking, dark/light themes, and local history persistence. Start, pause, reset, and record laps with precision.",
+  "requestFramePermissions": []
+}
